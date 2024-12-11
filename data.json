@@ -1,0 +1,18 @@
+{
+  "customers": [
+    {
+      "id": "b719",
+      "name": "Bobur Boboqulov",
+      "email": "boboqulovbobur7777@gmail.com",
+      "phoneNumber": "906797377",
+      "addOns": {
+        "LargerStorage": true,
+        "CustomizableProfile": true
+      },
+      "plan": {
+        "name": "Pro",
+        "term": "year"
+      }
+    }
+  ]
+}
